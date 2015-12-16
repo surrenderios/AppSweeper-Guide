@@ -16,12 +16,11 @@
 
 6. Click "Uninstall" button, AppSweeper will remove selected Application and it's related files to trash, If AppSweeper has't enough permission, It will guide you remove the left files mannual.
 
-**Tips: Double click on icon will show the file in "Finder" **'
+**Tips: Double click on icon will show the file in "Finder"**
 
 **Tips: Input keywork on the top-right cornor, Will help you fast find the application**
 
-**
-Tips: Input keywork on the top-right cornor, Will help you fast find the application**
+**Tips: Input keywork on the top-right cornor, Will help you fast find the application**
 
 ###Want more
 
